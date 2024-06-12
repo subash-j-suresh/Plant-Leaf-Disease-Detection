@@ -1,6 +1,3 @@
-Here's a README file for your GitHub project based on the information provided:
-
----
 
 # Tomato Leaf Disease Detection using Deep Learning
 
