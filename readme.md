@@ -94,7 +94,3 @@ To use the models, follow these steps:
 - PyTorch Framework: [Link](https://pytorch.org)
 - ResNet-50: He, K., Zhang, X., Ren, S., & Sun, J. (2016). Deep residual learning for image recognition. In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 770-778).
 - AlexNet: Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2012). Imagenet classification with deep convolutional neural networks. In Advances in neural information processing systems (pp. 1097-1105).
-
----
-
-Feel free to adjust the details, especially the repository URL and any specific usage instructions, to fit your project's needs.
